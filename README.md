@@ -31,8 +31,8 @@ If the snake collides with itelf or with the boundaries of the box, then the gam
 ## How to start
 
 ```Shell
-yarn
-yarn run start
+pnpm
+pnpm run start
 ```
 
 ## You can reach out 😊😊
